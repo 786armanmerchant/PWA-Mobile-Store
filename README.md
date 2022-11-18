@@ -11,4 +11,4 @@
  - If you have installed the PWA into your computer clicking on notification button will increase the count on your badge to clear it click on clear badges
 
 ## Check out the hosted version here: [Live Preview](https://786armanmerchant.github.io/PWA-Mobile-Store/) 
-Click 👆 to view the Live Website . 
+                                             Click 👆 to view the Live Website . 
