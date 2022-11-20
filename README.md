@@ -15,4 +15,4 @@
                                              
 ## License
 
-This project is available under the GNU license. See the [LICENSE](License) file for more info.
+This project is available under the GNU license. See the [LICENSE](https://github.com/786armanmerchant/PWA-Mobile-Store/blob/3df9b22bbe3700c740454a05e7be7eab5db11784/License.md) file for more info.
