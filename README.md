@@ -15,4 +15,4 @@
                                              
 ## License
 
-This project is available under the GNU license. See the [LICENSE](LICENSE) file for more info.
+This project is available under the GNU license. See the [LICENSE](License) file for more info.
