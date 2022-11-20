@@ -12,3 +12,7 @@
 
 ## Check out the hosted version here: [Live Preview](https://786armanmerchant.github.io/PWA-Mobile-Store/) 
                                              Click 👆 to view the Live Website . 
+                                             
+## License
+
+This project is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
